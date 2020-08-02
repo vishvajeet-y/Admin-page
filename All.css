@@ -138,6 +138,9 @@
     left: 46px;
     top:43px;
 }
+#heading1{
+    font-weight: normal;
+}
 /*Payment.css*/
 #Payment{
     width: 100%;
@@ -330,7 +333,7 @@ ul li:hover .sub{
 .left-box{
     width: 90%;
     height: 30%;
-    background-color: pink;
+    background-color:  #F0EAFE;;
     margin: 2px 46px 0px;
     border-radius: 2%;
     font-size: 18px;
@@ -378,7 +381,7 @@ ul li:hover .sub{
     top: 5px;
     border: none;
     font-size: 18px;
-    background: pink;
+    background:  #F0EAFE;;
 }
 .btn-2{
     position: relative;
@@ -386,7 +389,7 @@ ul li:hover .sub{
     top: 5px;
     border: none;
     font-size: 18px;
-    background: pink;
+    background:  #F0EAFE;;
 }
 .input-container{
     width: 90%;
@@ -417,7 +420,7 @@ ul li:hover .sub{
     margin: 2px 46px 0px;
     width: 90%;
     height: 45%;
-    background-color: pink;
+    background-color:  #F0EAFE;;
     border-radius: 3%;
 }
 .lower{
